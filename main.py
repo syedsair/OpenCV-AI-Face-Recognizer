@@ -5,7 +5,7 @@ import numpy as np
 import os, time
 from PIL import Image
 
-API_KEY = "ssssss-aaaaaa-ssssssss-aaaaaa"
+API_KEY = "5f8641f6-c4e8-490d-b619-2d8bf20d3786"
 
 
 def userAuthenticated():
