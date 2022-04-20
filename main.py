@@ -5,6 +5,8 @@ import numpy as np
 import os, time
 from PIL import Image
 
+API_KEY = "ssssss-aaaaaa-ssssssss-aaaaaa"
+
 
 def userAuthenticated():
     file = open("Registrations", 'r')
