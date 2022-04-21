@@ -6,7 +6,7 @@ import os, time
 from PIL import Image
 
 
-
+aws_secret="AKIAIMNOJVGFDXXXE4OA"
 
 
 def userAuthenticated():
